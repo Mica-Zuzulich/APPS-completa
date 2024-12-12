@@ -1,0 +1,131 @@
+[20-Nov-2024 21:44:58 Europe/Berlin] Inicio de app web
+[20-Nov-2024 21:44:58 Europe/Berlin] APP::construct->no hay controlador
+[20-Nov-2024 21:44:58 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/cursodeyoutube/APPS-COMPLETA/libs/app.php on line 13
+[20-Nov-2024 21:44:58 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'controllers/login.php' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/cursodeyoutube/APPS-COMPLETA/libs/app.php on line 13
+[20-Nov-2024 22:08:31 Europe/Berlin] Inicio de app web
+[20-Nov-2024 22:08:31 Europe/Berlin] APP::construct->no hay controlador
+[20-Nov-2024 22:08:31 Europe/Berlin] Login::construct->Incio Login
+[11-Dec-2024 21:12:43 Europe/Berlin] hollaaaaa
+[11-Dec-2024 21:12:58 Europe/Berlin] weeeeba
+[11-Dec-2024 21:36:59 Europe/Berlin] Inicio de app web
+[11-Dec-2024 21:36:59 Europe/Berlin] APP::construct->no hay controlador
+[11-Dec-2024 21:36:59 Europe/Berlin] PHP Notice:  Undefined variable: archivController in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:36:59 Europe/Berlin] PHP Warning:  require_once(/opt/lampp/htdocs/micaela/APPS-COMPLETA): failed to open stream: Conseguido in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:36:59 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:42:33 Europe/Berlin] Inicio de app web
+[11-Dec-2024 21:42:33 Europe/Berlin] APP::construct->no hay controlador
+[11-Dec-2024 21:42:33 Europe/Berlin] PHP Notice:  Undefined variable: archivController in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:42:33 Europe/Berlin] PHP Warning:  require_once(/opt/lampp/htdocs/micaela/APPS-COMPLETA): failed to open stream: Conseguido in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:42:33 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:42:56 Europe/Berlin] Inicio de app web
+[11-Dec-2024 21:42:56 Europe/Berlin] APP::construct->no hay controlador
+[11-Dec-2024 21:42:56 Europe/Berlin] PHP Notice:  Undefined variable: archivController in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:42:56 Europe/Berlin] PHP Warning:  require_once(/opt/lampp/htdocs/micaela/APPS-COMPLETA): failed to open stream: Conseguido in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:42:56 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:45:13 Europe/Berlin] Inicio de app web
+[11-Dec-2024 21:45:13 Europe/Berlin] APP::construct->no hay controlador
+[11-Dec-2024 21:45:13 Europe/Berlin] PHP Notice:  Undefined variable: archivController in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:45:13 Europe/Berlin] PHP Warning:  require_once(/opt/lampp/htdocs/micaela/APPS-COMPLETA): failed to open stream: Conseguido in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:45:13 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 13
+[11-Dec-2024 21:50:10 Europe/Berlin] Inicio de app web
+[11-Dec-2024 21:50:10 Europe/Berlin] APP::construct->no hay controlador
+[11-Dec-2024 21:50:10 Europe/Berlin] Login::construct->Incio Login
+[11-Dec-2024 22:29:32 Europe/Berlin] Inicio de app web
+[11-Dec-2024 22:29:32 Europe/Berlin] PHP Warning:  require_once(config/config.php): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 19
+[11-Dec-2024 22:29:32 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'config/config.php' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 19
+[11-Dec-2024 22:33:41 Europe/Berlin] Inicio de app web
+[11-Dec-2024 22:33:41 Europe/Berlin] PHP Warning:  require_once(../config/config.php): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 19
+[11-Dec-2024 22:33:41 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../config/config.php' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 19
+[11-Dec-2024 22:38:41 Europe/Berlin] Inicio de app web
+[11-Dec-2024 22:38:41 Europe/Berlin] APP::construct->no hay controlador
+[11-Dec-2024 22:38:41 Europe/Berlin] Login::construct->Incio Login
+[11-Dec-2024 22:38:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Login::LoadModel() in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php:16
+Stack trace:
+#0 /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php(21): App->__construct()
+#1 {main}
+  thrown in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 16
+[11-Dec-2024 22:46:04 Europe/Berlin] Inicio de app web
+[11-Dec-2024 22:46:04 Europe/Berlin] APP::construct->no hay controlador
+[11-Dec-2024 22:46:04 Europe/Berlin] Login::construct->Incio Login
+[11-Dec-2024 22:54:17 Europe/Berlin] Inicio de app web
+[11-Dec-2024 22:54:17 Europe/Berlin] APP::construct->no hay controlador
+[11-Dec-2024 22:54:17 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 02:44:50 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:44:50 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 02:44:50 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 02:49:44 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:49:44 Europe/Berlin] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 21
+[12-Dec-2024 02:49:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Errores' not found in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php:50
+Stack trace:
+#0 /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php(21): App->__construct()
+#1 {main}
+  thrown in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 50
+[12-Dec-2024 02:55:12 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:55:12 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 02:55:12 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 02:55:17 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:55:17 Europe/Berlin] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 23
+[12-Dec-2024 02:55:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::construct() in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php:6
+Stack trace:
+#0 /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php(52): Errores->__construct()
+#1 /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php(21): App->__construct()
+#2 {main}
+  thrown in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 6
+[12-Dec-2024 02:55:22 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:55:22 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 02:55:22 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 02:55:56 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:55:56 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 02:55:56 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 02:56:00 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:56:00 Europe/Berlin] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 23
+[12-Dec-2024 02:56:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::construct() in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php:6
+Stack trace:
+#0 /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php(52): Errores->__construct()
+#1 /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php(21): App->__construct()
+#2 {main}
+  thrown in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 6
+[12-Dec-2024 02:56:13 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:56:13 Europe/Berlin] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 23
+[12-Dec-2024 02:56:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::construct() in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php:6
+Stack trace:
+#0 /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php(52): Errores->__construct()
+#1 /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php(21): App->__construct()
+#2 {main}
+  thrown in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 6
+[12-Dec-2024 02:56:19 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:56:19 Europe/Berlin] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 23
+[12-Dec-2024 02:56:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::construct() in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php:6
+Stack trace:
+#0 /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php(52): Errores->__construct()
+#1 /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php(21): App->__construct()
+#2 {main}
+  thrown in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 6
+[12-Dec-2024 02:57:38 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:57:38 Europe/Berlin] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 23
+[12-Dec-2024 02:57:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::construct() in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php:6
+Stack trace:
+#0 /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php(52): Errores->__construct()
+#1 /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php(21): App->__construct()
+#2 {main}
+  thrown in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 6
+[12-Dec-2024 02:58:37 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:58:37 Europe/Berlin] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 23
+[12-Dec-2024 02:58:37 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 02:58:44 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:58:44 Europe/Berlin] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/micaela/APPS-COMPLETA/libs/app.php on line 23
+[12-Dec-2024 02:58:44 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 02:59:44 Europe/Berlin] Inicio de app web
+[12-Dec-2024 02:59:44 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 03:00:30 Europe/Berlin] Inicio de app web
+[12-Dec-2024 03:00:30 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 03:00:30 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 03:00:34 Europe/Berlin] Inicio de app web
+[12-Dec-2024 03:00:34 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 03:03:19 Europe/Berlin] Inicio de app web
+[12-Dec-2024 03:03:19 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 03:03:23 Europe/Berlin] Inicio de app web
+[12-Dec-2024 03:03:23 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 03:03:23 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 03:03:28 Europe/Berlin] Inicio de app web
+[12-Dec-2024 03:03:28 Europe/Berlin] Errores::construct->Incio Errores
