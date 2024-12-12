@@ -129,3 +129,77 @@ Stack trace:
 [12-Dec-2024 03:03:23 Europe/Berlin] Login::construct->Incio Login
 [12-Dec-2024 03:03:28 Europe/Berlin] Inicio de app web
 [12-Dec-2024 03:03:28 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 16:56:28 Europe/Berlin] Inicio de app web
+[12-Dec-2024 16:56:28 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:00:07 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:00:07 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:00:09 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:00:09 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:00:18 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:00:18 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:00:20 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:00:20 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 17:00:20 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 17:00:25 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:00:25 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:00:54 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:00:54 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:00:58 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:00:58 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 17:00:58 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 17:01:03 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:01:03 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:03:28 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:03:28 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:03:31 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:03:31 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 17:03:31 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 17:03:35 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:03:35 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:04:31 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:04:31 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:04:33 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:04:33 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 17:04:33 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 17:04:34 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:04:34 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:04:34 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:04:34 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:04:37 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:04:37 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:35:16 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:35:16 Europe/Berlin] PHP Warning:  require_once(../libs/controller.php): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 2
+[12-Dec-2024 17:35:16 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../libs/controller.php' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 2
+[12-Dec-2024 17:35:19 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:35:19 Europe/Berlin] PHP Warning:  require_once(../libs/controller.php): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 2
+[12-Dec-2024 17:35:19 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../libs/controller.php' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/controllers/errores.php on line 2
+[12-Dec-2024 17:36:20 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:36:20 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 17:36:20 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 17:36:20 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:36:20 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:36:20 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:36:20 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:36:33 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:36:33 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 17:41:09 Europe/Berlin] Inicio de app web
+[12-Dec-2024 17:41:09 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 18:18:52 Europe/Berlin] Inicio de app web
+[12-Dec-2024 18:18:52 Europe/Berlin] PHP Warning:  require_once(classes/success): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 14
+[12-Dec-2024 18:18:52 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'classes/success' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 14
+[12-Dec-2024 18:18:55 Europe/Berlin] Inicio de app web
+[12-Dec-2024 18:18:55 Europe/Berlin] PHP Warning:  require_once(classes/success): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 14
+[12-Dec-2024 18:18:55 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'classes/success' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 14
+[12-Dec-2024 18:19:07 Europe/Berlin] Inicio de app web
+[12-Dec-2024 18:19:07 Europe/Berlin] PHP Warning:  require_once(classes/success): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 14
+[12-Dec-2024 18:19:07 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'classes/success' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 14
+[12-Dec-2024 18:19:08 Europe/Berlin] Inicio de app web
+[12-Dec-2024 18:19:08 Europe/Berlin] PHP Warning:  require_once(classes/success): failed to open stream: No existe el archivo o el directorio in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 14
+[12-Dec-2024 18:19:08 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'classes/success' (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/micaela/APPS-COMPLETA/index.php on line 14
+[12-Dec-2024 18:20:03 Europe/Berlin] Inicio de app web
+[12-Dec-2024 18:20:03 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 18:20:03 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 18:20:04 Europe/Berlin] Inicio de app web
+[12-Dec-2024 18:20:04 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 18:20:04 Europe/Berlin] Inicio de app web
+[12-Dec-2024 18:20:04 Europe/Berlin] Errores::construct->Incio Errores

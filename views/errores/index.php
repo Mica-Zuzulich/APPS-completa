@@ -7,7 +7,7 @@
     <title>404</title>
 </head>
 <body> 
-<?php require 'views/header.php'; ?>
+
     <div class="error-container">
         <div class="error-info">
         <h1 class="error404">404</h1> 

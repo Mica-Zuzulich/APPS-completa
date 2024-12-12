@@ -1,5 +1,5 @@
 <?php
-define('URL' ,'http://localhost/micaela/APPS-COMPLETA');
+define('URL' ,'http://localhost/micaela/APPS-COMPLETA/');
 
 define('HOST', 'localhost');
 define('DB', 'expense-app');
