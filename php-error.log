@@ -203,3 +203,24 @@ Stack trace:
 [12-Dec-2024 18:20:04 Europe/Berlin] Errores::construct->Incio Errores
 [12-Dec-2024 18:20:04 Europe/Berlin] Inicio de app web
 [12-Dec-2024 18:20:04 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 19:32:39 Europe/Berlin] Inicio de app web
+[12-Dec-2024 19:32:40 Europe/Berlin] APP::construct->no hay controlador
+[12-Dec-2024 19:32:40 Europe/Berlin] Login::construct->Incio Login
+[12-Dec-2024 19:32:40 Europe/Berlin] Inicio de app web
+[12-Dec-2024 19:32:40 Europe/Berlin] Errores::construct->Incio Errores
+[12-Dec-2024 19:32:40 Europe/Berlin] Inicio de app web
+[12-Dec-2024 19:32:40 Europe/Berlin] Errores::construct->Incio Errores
+[17-Dec-2024 18:16:51 Europe/Berlin] Inicio de app web
+[17-Dec-2024 18:16:51 Europe/Berlin] APP::construct->no hay controlador
+[17-Dec-2024 18:16:51 Europe/Berlin] Login::construct->Incio Login
+[17-Dec-2024 18:16:52 Europe/Berlin] Inicio de app web
+[17-Dec-2024 18:16:52 Europe/Berlin] Errores::construct->Incio Errores
+[17-Dec-2024 18:16:52 Europe/Berlin] Inicio de app web
+[17-Dec-2024 18:16:52 Europe/Berlin] Errores::construct->Incio Errores
+[24-Dec-2024 00:15:31 Europe/Berlin] Inicio de app web
+[24-Dec-2024 00:15:31 Europe/Berlin] APP::construct->no hay controlador
+[24-Dec-2024 00:15:31 Europe/Berlin] Login::construct->Incio Login
+[24-Dec-2024 00:15:31 Europe/Berlin] Inicio de app web
+[24-Dec-2024 00:15:31 Europe/Berlin] Errores::construct->Incio Errores
+[24-Dec-2024 00:15:31 Europe/Berlin] Inicio de app web
+[24-Dec-2024 00:15:31 Europe/Berlin] Errores::construct->Incio Errores
